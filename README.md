@@ -1,11 +1,12 @@
 <!-- AnilMarneni | The Creative Technologist's README -->
 
+<!-- Optional: Add a banner image to your repo at /assets/banner.png and update the path below -->
 <p align="center">
-  <img src="https://github.com/AnilMarneni/AnilMarneni/assets/your-banner-image" alt="Banner: Full Stack, AI, Hackathons" width="100%" />
+  <img src="https://raw.githubusercontent.com/AnilMarneni/AnilMarneni/main/assets/banner.png" alt="Banner: Full Stack, AI, Hackathons" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F75C7A&center=true&vCenter=true&width=900&lines=Hi+I'm+Anil+Marneni+%F0%9F%91%8B;Creative+Full+Stack+%26+AI+Developer;Open+Source+Enthusiast;Hackathon+Champion;Let's+Build+the+Future!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F75C7A&center=true&vCenter=true&width=900&lines=Hi+I'm+Anil+Marneni+%F0%9F%91%8B;Creative+Full+Stack+%26+AI+Developer;Open+Source+Enthusiast;Hackathon+Champion;Let's+Build+the+Future!" />
 </h1>
 
 <p align="center">
@@ -20,12 +21,13 @@
 
 ## 🌈 About Me
 
-I'm **Marneni Anil Chiranjeeth** — a creative technologist, passionate about solving real-world problems with code and design. Whether it's building scalable full-stack apps, crafting AI chat agents, or racing through hackathons, I thrive on bringing ideas to life and collaborating across the globe.
+I'm **Marneni Anil Chiranjeeth** — a creative technologist passionate about building solutions that scale, inspire, and connect.  
+Whether it's crafting full-stack web apps, architecting AI chat agents, or hacking my way to the top at competitions, I love turning ideas into impact.
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science (CGPA: 8.91)
-- 💡 Google Summer of Code Contributor @ Rocket.Chat
-- 🏆 Multi-hackathon top 5% finisher
-- 🔥 Always learning, always shipping, always caffeinated
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** (CGPA: 8.91)
+- 💡 **Google Summer of Code Contributor @ Rocket.Chat**
+- 🏆 **Multi-hackathon top 5% finisher**
+- 🚀 **Always learning, always building, always caffeinated**
 
 ---
 
@@ -102,20 +104,10 @@ I'm **Marneni Anil Chiranjeeth** — a creative technologist, passionate about s
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 <b>Top 5</b> in 3+ Hackathons
-- 💡 Solved 25+ DSA problems on LeetCode (timed contests weekly)
-- 🌱 Built scalable MERN stack apps with real-time features & auth
-- 🧠 Deep knowledge of DSA, OS, DBMS, Networking
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnilMarneni&show_icons=true&theme=gradient&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMarneni&theme=gradient&hide_border=true" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilMarneni&theme=github_dark" height="180"/>
-</p>
+- 🥇 **Top 5** in 3+ Hackathons
+- 💡 Solved **25+ DSA problems** on LeetCode (timed contests weekly)
+- 🌱 Built **scalable MERN stack apps** with real-time features & auth
+- 🧠 Deep knowledge of **DSA, OS, DBMS, Networking**
 
 ---
 
@@ -128,6 +120,16 @@ I'm **Marneni Anil Chiranjeeth** — a creative technologist, passionate about s
   <a href="https://github.com/AnilMarneni/AnilMarneni-demo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilMarneni&repo=AnilMarneni-demo&theme=gradient" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilMarneni&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMarneni&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilMarneni&theme=github_dark" height="180"/>
 </p>
 
 ---
@@ -163,5 +165,5 @@ I'm **Marneni Anil Chiranjeeth** — a creative technologist, passionate about s
 ---
 
 <!--
-Pro tip: Add your own banner image to /assets/your-banner-image in this repo to make your README even more unique!
+Pro tip: Add your own banner image to /assets/banner.png in this repo to make your README even more unique!
 -->
