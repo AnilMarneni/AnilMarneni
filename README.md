@@ -1,10 +1,3 @@
-<!-- AnilMarneni | The Creative Technologist's README -->
-
-<!-- Optional: Add a banner image to your repo at /assets/banner.png and update the path below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnilMarneni/AnilMarneni/main/assets/banner.png" alt="Banner: Full Stack, AI, Hackathons" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F75C7A&center=true&vCenter=true&width=900&lines=Hi+I'm+Anil+Marneni+%F0%9F%91%8B;Creative+Full+Stack+%26+AI+Developer;Open+Source+Enthusiast;Hackathon+Champion;Let's+Build+the+Future!" />
 </h1>
