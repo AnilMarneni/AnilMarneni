@@ -1,162 +1,467 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F75C7A&center=true&vCenter=true&width=900&lines=Hi+I'm+Anil+Marneni+%F0%9F%91%8B;Creative+Full+Stack+%26+AI+Developer;Open+Source+Enthusiast;Hackathon+Champion;Let's+Build+the+Future!" />
-</h1>
+# <div align="center">Hi, I'm Anil Marneni 👋</div>
+
+<div align="center">
+
+### Backend Engineer • Distributed Systems • AI Infrastructure
+
+Building scalable backend systems, real-time architectures, and AI-powered platforms.
 
 <p align="center">
-  <a href="mailto:anilmarneni30@gmail.com"><img src="https://img.shields.io/badge/Gmail-anilmarneni30@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anilmarneni"><img src="https://img.shields.io/badge/LinkedIn-anilmarneni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/AnilMarneni"><img src="https://img.shields.io/badge/GitHub-AnilMarneni-333?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Hackathon%20Top%205-FF9800?style=for-the-badge&logo=hackerrank&logoColor=white">
-  <img src="https://img.shields.io/badge/GSoC-Rocket.Chat-34A853?style=for-the-badge&logo=google&logoColor=white">
-</p>
-
----
-
-## 🌈 About Me
-
-I'm **Marneni Anil Chiranjeeth** — a creative technologist passionate about building solutions that scale, inspire, and connect.  
-Whether it's crafting full-stack web apps, architecting AI chat agents, or hacking my way to the top at competitions, I love turning ideas into impact.
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (CGPA: 8.91)
-- 💡 **Google Summer of Code Contributor @ Rocket.Chat**
-- 🏆 **Multi-hackathon top 5% finisher**
-- 🚀 **Always learning, always building, always caffeinated**
-
----
-
-## 🚀 My Tech Stack
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <strong>Web & DB</strong><br>
-      <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center">
-      <strong>Tools & Concepts</strong><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square" />
-      <img src="https://img.shields.io/badge/OOPs-00599C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/Algorithms-34D399?style=flat-square" />
-      <img src="https://img.shields.io/badge/Networking-1E293B?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Featured Projects
-
-<details open>
-<summary>🌐 <b>Campus Recruiter Portal</b></summary>
-<ul>
-  <li>MERN stack portal for students & recruiters</li>
-  <li>Automated hiring, reduced manual work by <b>80%</b></li>
-  <li>Resume uploads, job tracking, email alerts, secured JWT auth</li>
-  <li>Handled 500+ users, boosted response time by <b>20%</b></li>
-</ul>
-</details>
-
-<details open>
-<summary>💰 <b>Personal Finance Budget Tracker</b></summary>
-<ul>
-  <li>MERN stack app with Chart.js analytics</li>
-  <li>Tracked 100+ transactions, auto-budgeting</li>
-  <li>Real-time graphs, secure JWT auth, deployed via GitHub Actions</li>
-  <li>Helped users reduce spending by <b>20%</b></li>
-</ul>
-</details>
-
-<details open>
-<summary>🤖 <b>GSoC @ Rocket.Chat</b></summary>
-<ul>
-  <li>Built browser-based AI agent runner (<2s response time, WebGPU)</li>
-  <li>Integrated LLMs for chat summarization, auto-reply</li>
-  <li>Designed React UI, cut server load by <b>40%</b></li>
-  <li>Collaborated with 15+ global contributors</li>
-</ul>
-</details>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 **Top 5** in 3+ Hackathons
-- 💡 Solved **25+ DSA problems** on LeetCode (timed contests weekly)
-- 🌱 Built **scalable MERN stack apps** with real-time features & auth
-- 🧠 Deep knowledge of **DSA, OS, DBMS, Networking**
-
----
-
-## 📦 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/AnilMarneni/CRT-Training">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilMarneni&repo=CRT-Training&theme=gradient" />
+  <a href="mailto:anilmarneni30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/AnilMarneni/AnilMarneni-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilMarneni&repo=AnilMarneni-demo&theme=gradient" />
+
+  <a href="https://www.linkedin.com/in/anilmarneni">
+    <img src="https://img.shields.io/badge/LinkedIn-Anil_Marneni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AnilMarneni">
+    <img src="https://img.shields.io/badge/GitHub-AnilMarneni-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Distributed+Systems+Engineer;Building+Scalable+Backend+Architectures;AI+Infrastructure+%26+Real-Time+Systems;Kafka+%7C+Redis+%7C+WebSockets+%7C+LLMs;Always+Learning+System+Design+%26+DSA"/>
+
+</div>
+
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnilMarneni&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMarneni&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilMarneni&theme=github_dark" height="180"/>
+I'm **Marneni Anil Chiranjeeth**, a backend and systems-focused developer passionate about building scalable software systems, distributed architectures, and AI-powered platforms.
+
+My interests primarily revolve around:
+
+* Distributed Systems
+* Backend Infrastructure
+* Real-Time Architectures
+* Event-Driven Systems
+* AI Infrastructure & LLM Integrations
+* Concurrent Processing Systems
+* System Design & Scalability
+* Data Structures & Algorithms
+
+I enjoy building systems that simulate real production engineering challenges — from distributed code execution engines and Kafka-powered chat systems to AI-enabled workflow orchestration platforms.
+
+Currently focused on:
+
+* Designing scalable backend systems
+* Deepening system design expertise
+* Improving low-level problem solving through DSA
+* Exploring AI infrastructure and intelligent automation systems
+
+---
+
+# 🧠 Engineering Interests
+
+```txt
+Backend Engineering
+Distributed Systems
+System Design
+Real-Time Communication
+AI Infrastructure
+Concurrent Systems
+Event-Driven Architecture
+Streaming Systems
+Scalable APIs
+LLM Applications
+Cloud-Native Architectures
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
 </p>
 
 ---
 
-## 💬 Connect & Collaborate
+## Backend & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,mongodb,mysql,postgres,docker,kafka" />
+</p>
+
+---
+
+## Frontend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+# 🏗️ Featured Engineering Projects
+
+---
+
+## ⚙️ Distributed Code Execution & Evaluation Engine
+
+### Scalable sandboxed execution system for running untrusted code securely.
+
+### Highlights
+
+* Built isolated execution environments for secure code execution
+* Designed scalable worker-based architecture
+* Implemented asynchronous job processing pipelines
+* Added automated test-case based evaluation system
+* Focused on fault isolation and execution safety
+* Optimized execution scheduling and throughput
+
+### Engineering Concepts
+
+```txt
+Distributed Workers
+Sandboxing
+Queue-Based Architecture
+Async Processing
+Execution Isolation
+Scalable Job Scheduling
+```
+
+---
+
+## 💬 Real-Time Chat System
+
+### Scalable real-time communication platform using WebSockets, Redis, and Kafka.
+
+### Features
+
+* 1:1 and group messaging
+* Real-time presence tracking
+* Message delivery architecture
+* Redis-based pub/sub system
+* Kafka-backed event streaming
+* Distributed communication pipeline
+
+### Engineering Concepts
+
+```txt
+WebSockets
+Redis Pub/Sub
+Kafka Streams
+Distributed Messaging
+Event-Driven Systems
+Real-Time Communication
+```
+
+---
+
+## 🔗 Distributed URL Shortener
+
+### Production-grade distributed URL shortening platform.
+
+### Features
+
+* Base62 encoding strategy
+* Redis caching layer
+* Scalable redirect architecture
+* Optimized database lookups
+* Collision handling mechanisms
+* Analytics-ready architecture
+
+### Engineering Concepts
+
+```txt
+Caching
+Database Optimization
+Distributed Architecture
+Scalable APIs
+Low Latency Systems
+```
+
+---
+
+## ⚡ Real-Time Event Processing System
+
+### Event-driven processing architecture with queues and retry mechanisms.
+
+### Features
+
+* Producer-consumer architecture
+* Retry and dead-letter handling
+* Queue-driven processing
+* Fault-tolerant event pipelines
+* Real-time event orchestration
+* Scalable processing workflows
+
+### Engineering Concepts
+
+```txt
+Message Queues
+Retry Mechanisms
+Event Streaming
+Fault Tolerance
+Distributed Processing
+```
+
+---
+
+## 🛡️ Real-Time Transaction Monitoring & Fraud Detection System
+
+### Streaming-based fraud detection pipeline with dynamic risk analysis.
+
+### Features
+
+* Real-time transaction processing
+* Risk scoring architecture
+* Event stream monitoring
+* Fraud pattern analysis
+* Scalable backend services
+* Explainable fraud analysis workflows
+
+### Engineering Concepts
+
+```txt
+Streaming Systems
+ML Pipelines
+Risk Analysis
+Real-Time Monitoring
+Scalable Processing
+```
+
+---
+
+## 🤖 AI Customer Support Chatbot Backend
+
+### AI-powered backend system for customer support automation.
+
+### Features
+
+* Intent classification pipelines
+* REST API architecture
+* Conversation analytics
+* Context-aware response handling
+* AI workflow orchestration
+* Modular backend design
+
+### Engineering Concepts
+
+```txt
+LLM Integrations
+AI Backend Systems
+NLP Pipelines
+REST APIs
+Conversation Workflows
+```
+
+---
+
+## 🧠 Smart Task Manager with AI Integration
+
+### AI-powered productivity system with intelligent scheduling and prioritization.
+
+### Features
+
+* Natural language task creation
+* AI-assisted prioritization
+* Automated task breakdown
+* Smart scheduling workflows
+* Adaptive reminder logic
+* LLM-based task understanding
+
+### Engineering Concepts
+
+```txt
+LLM Workflows
+AI Agents
+Task Orchestration
+Automation Systems
+Async Workflows
+```
+
+---
+
+## 🌍 Low-Resource Language LLM Benchmark for Indian Languages
+
+### Benchmarking LLM performance across low-resource Indian languages.
+
+### Features
+
+* Evaluation workflows for multilingual datasets
+* Benchmarking pipelines
+* Language capability analysis
+* Comparative LLM performance studies
+* Dataset-driven experimentation
+
+### Engineering Concepts
+
+```txt
+LLM Evaluation
+Benchmarking
+Multilingual AI
+NLP Research
+AI Infrastructure
+```
+
+---
+
+# 📚 Data Structures & Algorithms Journey
+
+DSA has been one of the most important parts of my engineering journey.
+
+I actively practice problem solving to strengthen:
+
+* analytical thinking
+* optimization skills
+* system-level reasoning
+* coding interview preparation
+* algorithmic problem solving
+
+---
+
+## 💻 DSA Topics Explored
+
+```txt
+Arrays
+Strings
+Binary Search
+Sliding Window
+Two Pointers
+Hashing
+Stacks & Queues
+Linked Lists
+Trees
+Binary Trees
+BST
+Heaps
+Priority Queues
+Graphs
+DFS & BFS
+Recursion & Backtracking
+Greedy Algorithms
+Dynamic Programming
+Bit Manipulation
+Trie
+Segment Trees
+Disjoint Sets
+```
+
+---
+
+## 🧩 Problem Solving Platforms
+
+* LeetCode
+* GeeksforGeeks
+* Coding Ninjas
+* HackerRank
+
+---
+
+## 📈 Current Focus Areas
+
+* Advanced Graph Algorithms
+* Dynamic Programming
+* System Design Fundamentals
+* Competitive Programming Patterns
+* Backend-Oriented Problem Solving
+
+---
+
+# 🌱 Open Source & Collaboration
+
+## Google Summer of Code Contributor — Rocket.Chat
+
+Worked on AI-focused features and browser-based agent execution systems.
+
+### Contributions Included
+
+* AI-assisted workflows
+* LLM integrations
+* Frontend/backend integration
+* Performance optimization
+* Open-source collaboration
+* Production-scale code practices
+
+Collaborated with global contributors while working on scalable and maintainable engineering solutions.
+
+---
+
+# 📦 Highlighted Repositories
+
+| Project                                                  | Description                                                    |
+| -------------------------------------------------------- | -------------------------------------------------------------- |
+| Distributed-Code-Execution-Engine                        | Secure distributed execution engine for running untrusted code |
+| RealTime-Chat-System                                     | Kafka + Redis powered scalable messaging system                |
+| Distributed-URL-Shortener                                | Production-style URL shortening infrastructure                 |
+| Real-Time-Event-Processing-System                        | Queue-driven real-time processing architecture                 |
+| Real-Time-Transaction-Monitoring-Fraud-Detection-System  | Streaming fraud detection pipeline                             |
+| Smart-Task-Manager                                       | AI-powered intelligent productivity platform                   |
+| AI-Customer-Support-Chatbot-Backend                      | Backend architecture for AI customer support                   |
+| Low-Resource-Language-LLM-Benchmark-for-Indian-Languages | LLM benchmarking for Indian languages                          |
+| Veritas                                                  | Blockchain-enabled supply chain traceability platform          |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:anilmarneni30@gmail.com"><img src="https://img.shields.io/badge/Gmail-anilmarneni30@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anilmarneni"><img src="https://img.shields.io/badge/LinkedIn-anilmarneni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/AnilMarneni"><img src="https://img.shields.io/badge/GitHub-AnilMarneni-333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilMarneni&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMarneni&theme=github-dark-blue&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilMarneni&theme=github_dark"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilMarneni&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+* Build more production-scale distributed systems
+* Explore deeper backend scalability concepts
+* Learn advanced cloud-native architectures
+* Contribute more to open source
+* Strengthen system design expertise
+* Improve competitive programming performance
+* Explore AI infrastructure engineering
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:anilmarneni30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anilmarneni">
+  <img src="https://img.shields.io/badge/LinkedIn-Anil_Marneni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AnilMarneni">
+  <img src="https://img.shields.io/badge/GitHub-AnilMarneni-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Continuous+learning%2C+building+scalable+solutions%2C+and+collaborating+globally%E2%80%94let%E2%80%99s+connect!&theme=tokyonight">
-  <br>
-  <b>“I turn coffee ☕ + code 💻 into creative solutions 🚀”</b>
+
+### "Building systems that scale, communicate, and solve real engineering problems."
+
 </div>
-
----
-
-<details>
-<summary><strong>✨ Fun Facts & Personality</strong></summary>
-<ul>
-  <li>🔥 Hackathons energize me—nothing beats learning under pressure!</li>
-  <li>💬 I love sharing knowledge and mentoring new coders.</li>
-  <li>🎶 Music and caffeine fuel my late-night coding streaks.</li>
-  <li>🌍 Always open to global collaboration—DM me for creative projects!</li>
-</ul>
-</details>
-
----
-
-<!--
-Pro tip: Add your own banner image to /assets/banner.png in this repo to make your README even more unique!
--->
