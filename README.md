@@ -77,6 +77,14 @@ My core focus lies in **Software Development Engineering (SDE)**, **Backend Deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilMarneni&layout=compact&theme=tokyonight" alt="Anil's Top Languages" width="48%" />
 </p>
 
+#### 👾 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnilMarneni/AnilMarneni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnilMarneni/AnilMarneni/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnilMarneni/AnilMarneni/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <p align="center">
