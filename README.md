@@ -8,16 +8,37 @@
 
 <br/>
 
+<!-- Row 1: Connect -->
 <a href="mailto:anilmarneni30@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://anil-portfolio-alpha.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Anil_Marneni-4CAF50?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/anilmarneni">
 <img src="https://img.shields.io/badge/LinkedIn-Anil_Marneni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/AnilMarneni">
 <img src="https://img.shields.io/badge/GitHub-AnilMarneni-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://x.com/AnilMarneni30">
+<img src="https://img.shields.io/badge/X-AnilMarneni30-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/>
+
+<!-- Row 2: Coding Profiles -->
+<a href="https://leetcode.com/u/AnilMarneni">
+<img src="https://img.shields.io/badge/LeetCode-Anil_Marneni-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/anilmart9tm">
+<img src="https://img.shields.io/badge/GeeksforGeeks-anilmart9tm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/AnilMarneni">
+<img src="https://img.shields.io/badge/Codeforces-AnilMarneni-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/anilmarneni30">
+<img src="https://img.shields.io/badge/HackerRank-anilmarneni30-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
