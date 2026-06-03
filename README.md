@@ -185,7 +185,7 @@ MERN • FastAPI • Scikit-Learn
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=AnilMarneni&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one.vercel.app/api?username=AnilMarneni&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AnilMarneni&theme=github-dark-blue&hide_border=true"/>
 
